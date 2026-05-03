@@ -3,7 +3,7 @@ import numpy as np
 
 # Sample dataset with missing values
 data = {
-    'Age': [25, np.nan, 37, 35, np.nan, 40],
+    'Age': [25, np.nan, 37, 35, np.nan],
     'Salary': [50000, 60000, np.nan, 80000, 75000, np.nan],
     'City': ['Delhi', 'Mumbai', np.nan, 'Delhi', 'Mumbai', 'Delhi']
 }
