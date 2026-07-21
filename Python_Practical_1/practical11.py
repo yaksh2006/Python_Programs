@@ -11,7 +11,7 @@ confidence_level = float(input("Enter confidence level (e.g., 0.95): "))
 z_table = {
     0.90: 1.645,
     0.95: 1.96,
-    0.99: 2.576
+    0.99: 2.5
 }
 
 # Get Z value
